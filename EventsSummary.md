@@ -17,3 +17,6 @@
 
 **May, 11, 2020**
 - [Summary](./MeetingSummary/May112020.md)
+
+**May, 18, 2020**
+- [Summary][./MeetingSummary/May182020.md]
